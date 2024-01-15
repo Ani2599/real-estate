@@ -8,3 +8,5 @@ This repository houses a comprehensive Machine Learning project tailored for rea
 2)Analysis App: An interactive application offering in-depth analysis and visualizations of real estate data, providing valuable insights for users.
 
 3)Recommend Apartments: An intelligent recommendation engine that suggests apartments based on user preferences and requirements.
+
+Note:- 1_Price Predictor.py,2_Analysis app.py,3_Recommend Apartments.py these are the app files.
